@@ -1,0 +1,12 @@
+{
+  "name": "UNIT SHOP LAUNCH",
+  "symbol": "SHOPLCH",
+  "description": "Spend and earn across Unit Network commerce. SHOP is the token for global decentralized commerce — use it to buy, sell, and earn across tokenized marketplaces.",
+  "image": "https://raw.githubusercontent.com/unitecosystem/UnitShopLaunch/main/ShopLaunch512.png",
+  "creator": {
+    "name": "UNIT SHOP LAUNCH",
+    "site": "https://shop.unit.network/coin"
+  },
+  "seller_fee_basis_points": 0,
+  "creators": null
+}
